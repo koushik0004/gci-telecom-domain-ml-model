@@ -31,7 +31,17 @@ Save:
 Final Assignment/telecom/eda_action_matrix.csv
 docs/4-EDA-reports/eda_action_matrix.md
 
+Create dataset snapshot representing the complete dataframe state after EDA action matrix generation.
+
+Save snapshot:
+
+Final Assignment/data/intermediate/E5_action_matrix.parquet
+
 Validation:
+
+- one row per feature
+- confirm eda_action_matrix.csv created successfully
+- confirm E5_action_matrix.parquet created successfully
 
 one row per feature.
 

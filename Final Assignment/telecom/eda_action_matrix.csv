@@ -1,0 +1,99 @@
+feature,missing_strategy,transformation_strategy,encoding_strategy,governance_type,keep_candidate
+HHstatin,MISSING + indicator,none,one-hot,safe,True
+actvsubs,none,log1p,none,safe,True
+adjmou,none,log1p,none,conditional,True
+adjqty,none,log1p,none,conditional,True
+adjrev,none,log1p,none,conditional,True
+adults,median + indicator,none,none,safe,True
+area,MISSING + indicator,none,label-encode,safe,True
+asl_flag,none,none,label-encode,safe,True
+attempt_Mean,none,log1p,none,conditional,True
+avg3mou,none,log1p,none,conditional,True
+avg3qty,none,log1p,none,conditional,True
+avg3rev,none,log1p,none,conditional,True
+avg6mou,median + indicator,log1p,none,conditional,True
+avg6qty,median + indicator,log1p,none,conditional,True
+avg6rev,median + indicator,log1p,none,conditional,True
+avgmou,none,log1p,none,conditional,True
+avgqty,none,log1p,none,conditional,True
+avgrev,none,log1p,none,conditional,True
+blck_dat_Mean,none,log1p,none,conditional,True
+blck_vce_Mean,none,log1p,none,conditional,True
+callfwdv_Mean,none,log1p,none,conditional,True
+callwait_Mean,none,log1p,none,conditional,True
+cc_mou_Mean,none,log1p,none,conditional,True
+ccrndmou_Mean,none,log1p,none,conditional,True
+change_mou,median + indicator,winsorize_1_99 + log1p,none,conditional,True
+change_rev,median + indicator,winsorize_1_99 + log1p,none,conditional,True
+comp_dat_Mean,none,log1p,none,conditional,True
+comp_vce_Mean,none,log1p,none,conditional,True
+complete_Mean,none,log1p,none,conditional,True
+crclscod,none,none,label-encode,safe,True
+creditcd,MISSING + indicator,none,label-encode,safe,True
+custcare_Mean,none,log1p,none,conditional,True
+da_Mean,median + indicator,log1p,none,conditional,True
+datovr_Mean,median + indicator,log1p,none,conditional,True
+drop_blk_Mean,none,log1p,none,conditional,True
+drop_dat_Mean,none,log1p,none,conditional,True
+drop_vce_Mean,none,log1p,none,conditional,True
+dualband,MISSING + indicator,none,one-hot,safe,True
+dwllsize,MISSING + indicator,none,label-encode,safe,True
+dwlltype,MISSING + indicator,none,label-encode,safe,True
+eqpdays,median + indicator,log1p,none,safe,True
+ethnic,MISSING + indicator,none,label-encode,safe,True
+forgntvl,median + indicator,log1p,none,safe,True
+hnd_price,median + indicator,none,none,safe,True
+hnd_webcap,MISSING + indicator,none,one-hot,safe,True
+income,median + indicator,none,none,safe,True
+infobase,MISSING + indicator,none,label-encode,safe,True
+inonemin_Mean,none,log1p,none,conditional,True
+iwylis_vce_Mean,none,log1p,none,conditional,True
+kid0_2,MISSING + indicator,none,label-encode,safe,True
+kid11_15,MISSING + indicator,none,label-encode,safe,True
+kid16_17,MISSING + indicator,none,label-encode,safe,True
+kid3_5,MISSING + indicator,none,label-encode,safe,True
+kid6_10,MISSING + indicator,none,label-encode,safe,True
+lor,median + indicator,none,none,safe,True
+marital,MISSING + indicator,none,one-hot,safe,True
+models,median + indicator,log1p,none,safe,True
+months,none,log1p,none,safe,True
+mou_Mean,median + indicator,log1p,none,conditional,True
+mou_cdat_Mean,none,log1p,none,conditional,True
+mou_cvce_Mean,none,log1p,none,conditional,True
+mou_opkd_Mean,none,log1p,none,conditional,True
+mou_opkv_Mean,none,log1p,none,conditional,True
+mou_pead_Mean,none,log1p,none,conditional,True
+mou_peav_Mean,none,log1p,none,conditional,True
+mou_rvce_Mean,none,log1p,none,conditional,True
+mouiwylisv_Mean,none,log1p,none,conditional,True
+mouowylisv_Mean,none,log1p,none,conditional,True
+new_cell,none,none,one-hot,safe,True
+numbcars,median + indicator,none,none,safe,True
+opk_dat_Mean,none,log1p,none,conditional,True
+opk_vce_Mean,none,log1p,none,conditional,True
+ovrmou_Mean,median + indicator,winsorize_1_99 + log1p,none,conditional,True
+ovrrev_Mean,median + indicator,log1p,none,conditional,True
+ownrent,MISSING + indicator,none,label-encode,safe,True
+owylis_vce_Mean,none,log1p,none,conditional,True
+peak_dat_Mean,none,log1p,none,conditional,True
+peak_vce_Mean,none,log1p,none,conditional,True
+phones,median + indicator,log1p,none,safe,True
+plcd_dat_Mean,none,log1p,none,conditional,True
+plcd_vce_Mean,none,log1p,none,conditional,True
+prizm_social_one,MISSING + indicator,none,one-hot,safe,True
+recv_sms_Mean,none,log1p,none,conditional,True
+recv_vce_Mean,none,log1p,none,conditional,True
+refurb_new,MISSING + indicator,none,label-encode,safe,True
+rev_Mean,median + indicator,log1p,none,conditional,True
+roam_Mean,median + indicator,winsorize_1_99 + log1p,none,conditional,True
+rv,median + indicator,log1p,none,safe,True
+threeway_Mean,none,log1p,none,conditional,True
+totcalls,none,log1p,none,conditional,True
+totmou,none,log1p,none,conditional,True
+totmrc_Mean,median + indicator,log1p,none,conditional,True
+totrev,none,log1p,none,conditional,True
+truck,median + indicator,log1p,none,safe,True
+unan_dat_Mean,none,log1p,none,conditional,True
+unan_vce_Mean,none,log1p,none,conditional,True
+uniqsubs,none,log1p,none,safe,True
+vceovr_Mean,median + indicator,winsorize_1_99 + log1p,none,conditional,True
