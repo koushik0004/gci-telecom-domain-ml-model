@@ -29,12 +29,24 @@ Generate:
 
 outlier_summary_df
 
-Save:
+Save report:
 
 docs/4-EDA-reports/outlier_treatment_report.md
 
+Save summary table:
+
+Final Assignment/telecom/outlier_summary.csv
+
+Create dataset snapshot representing the complete dataframe state after outlier treatment.
+
+Save snapshot:
+
+Final Assignment/data/intermediate/E4_outlier.parquet
+
 Validation:
 
-show cap thresholds and affected rows.
+- show cap thresholds and affected rows
+- confirm outlier_summary.csv created successfully
+- confirm E4_outlier.parquet created successfully
 
 Append new cells only.

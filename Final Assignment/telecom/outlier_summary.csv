@@ -1,0 +1,6 @@
+feature,lower_bound,upper_bound,affected_rows,original_min,original_max,capped_min,capped_max,capped_column
+change_mou,-835.98,751.4599999999991,1984,-3875.0,31219.25,-835.98,751.4599999999991,change_mou_capped
+change_rev,-104.5743,121.8824999999999,1984,-1107.74,9963.6575,-104.5743,121.8824999999999,change_rev_capped
+roam_Mean,0.0,22.409350000000014,997,0.0,3685.2,0.0,22.409350000000014,roam_Mean_capped
+vceovr_Mean,0.0,137.76850000000013,997,0.0,896.0875,0.0,137.76850000000013,vceovr_Mean_capped
+ovrmou_Mean,0.0,430.75,996,0.0,4320.75,0.0,430.75,ovrmou_Mean_capped
