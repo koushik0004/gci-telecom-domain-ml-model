@@ -30,12 +30,24 @@ feature
 original_skew
 transformed_skew
 
-Save:
+Save report:
 
 docs/4-EDA-reports/skew_treatment_report.md
 
+Save summary table:
+
+Final Assignment/telecom/skewness_comparison.csv
+
+Create dataset snapshot representing the complete dataframe state after skewness treatment.
+
+Save snapshot:
+
+Final Assignment/data/intermediate/E3_skewness.parquet
+
 Validation:
 
-show top 20 skew reductions.
+- show top 20 skew reductions
+- confirm skewness_comparison.csv created successfully
+- confirm E3_skewness.parquet created successfully
 
 Append new cells only.
