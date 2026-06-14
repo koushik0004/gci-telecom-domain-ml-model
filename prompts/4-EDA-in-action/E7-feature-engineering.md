@@ -19,12 +19,24 @@ Generate:
 
 feature_engineering_summary_df
 
-Save:
+Save report:
 
 docs/4-EDA-reports/feature_engineering_v1.md
 
+Save summary table:
+
+Final Assignment/telecom/feature_engineering_summary.csv
+
+Create dataset snapshot representing the complete dataframe state after feature engineering.
+
+Save snapshot:
+
+Final Assignment/data/intermediate/E7_feature_engineering.parquet
+
 Validation:
 
-show distributions and null counts.
+- show distributions and null counts
+- confirm feature_engineering_summary.csv created successfully
+- confirm E7_feature_engineering.parquet created successfully
 
 Append new cells only.

@@ -21,7 +21,17 @@ Generate:
 
 docs/4-EDA-reports/feature_dictionary.md
 
+Save summary table:
+
+Final Assignment/telecom/model_ready_summary.csv
+
 Validation:
+
+- final row count
+- final feature count
+- feature type summary
+- confirm train_model_ready.parquet created successfully
+- confirm model_ready_summary.csv created successfully
 
 show:
 
