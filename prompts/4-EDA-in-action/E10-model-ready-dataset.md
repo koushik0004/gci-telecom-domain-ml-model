@@ -15,7 +15,7 @@ Exclude:
 
 Generate:
 
-train_model_ready.parquet
+Final Assignment/telecom/train_model_ready.parquet
 
 Generate:
 
