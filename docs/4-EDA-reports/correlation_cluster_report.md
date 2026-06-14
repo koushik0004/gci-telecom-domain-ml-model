@@ -1,0 +1,32 @@
+# CORRELATION CLUSTERS
+
+Threshold: |corr| > 0.80
+Numeric features analyzed: 77
+Correlation clusters found: 9
+
+## Primary clusters
+
+cluster_theme  cluster_size representative_feature                                                                                                                                                                                                                                                                                 cluster_members
+        usage            22               mou_Mean attempt_Mean; avg3mou; avg3qty; avg6mou; avg6qty; avgmou; avgqty; comp_vce_Mean; complete_Mean; inonemin_Mean; mou_Mean; mou_cvce_Mean; mou_opkv_Mean; mou_peav_Mean; mou_rvce_Mean; mouowylisv_Mean; opk_vce_Mean; owylis_vce_Mean; peak_vce_Mean; plcd_vce_Mean; recv_vce_Mean; unan_vce_Mean
+      revenue             6                 totrev                                                                                                                                                                                                                                                adjmou; adjqty; adjrev; totcalls; totmou; totrev
+      service             4          plcd_dat_Mean                                                                                                                                                                                                                                       comp_dat_Mean; opk_dat_Mean; peak_dat_Mean; plcd_dat_Mean
+      support             3          custcare_Mean                                                                                                                                                                                                                                                       cc_mou_Mean; ccrndmou_Mean; custcare_Mean
+      service             2          plcd_dat_Mean                                                                                                                                                                                                                                                                    mou_cdat_Mean; mou_opkd_Mean
+
+## Full cluster table
+
+ cluster_id cluster_theme selection_role  cluster_size representative_feature central_feature  max_abs_pair_corr                                                                                                                                                                                                                                                                                 cluster_members
+          1         usage        primary            22               mou_Mean   comp_vce_Mean           0.998398 attempt_Mean; avg3mou; avg3qty; avg6mou; avg6qty; avgmou; avgqty; comp_vce_Mean; complete_Mean; inonemin_Mean; mou_Mean; mou_cvce_Mean; mou_opkv_Mean; mou_peav_Mean; mou_rvce_Mean; mouowylisv_Mean; opk_vce_Mean; owylis_vce_Mean; peak_vce_Mean; plcd_vce_Mean; recv_vce_Mean; unan_vce_Mean
+          2       revenue        primary             6                 totrev          totmou           0.999798                                                                                                                                                                                                                                                adjmou; adjqty; adjrev; totcalls; totmou; totrev
+          4       service        primary             4          plcd_dat_Mean   comp_dat_Mean           0.981303                                                                                                                                                                                                                                       comp_dat_Mean; opk_dat_Mean; peak_dat_Mean; plcd_dat_Mean
+          5       support        primary             3          custcare_Mean   ccrndmou_Mean           0.988852                                                                                                                                                                                                                                                       cc_mou_Mean; ccrndmou_Mean; custcare_Mean
+          9       service        primary             2          plcd_dat_Mean   mou_cdat_Mean           0.958300                                                                                                                                                                                                                                                                    mou_cdat_Mean; mou_opkd_Mean
+          3   revenue_aux      secondary             4               rev_Mean         avg6rev           0.927343                                                                                                                                                                                                                                                              avg3rev; avg6rev; avgrev; rev_Mean
+          6       overage      secondary             3            ovrrev_Mean     ovrrev_Mean           0.994752                                                                                                                                                                                                                                                           ovrmou_Mean; ovrrev_Mean; vceovr_Mean
+          7       quality      secondary             2          blck_vce_Mean   blck_vce_Mean           0.811653                                                                                                                                                                                                                                                                    blck_vce_Mean; drop_blk_Mean
+          8        device      secondary             2                 phones          models           0.890311                                                                                                                                                                                                                                                                                  models; phones
+
+## Notes
+
+- The dataframe is kept intact; this step only identifies correlated groups.
+- Representative features are selected for the four requested business themes: usage, revenue, support, and service.

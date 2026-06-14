@@ -25,13 +25,25 @@ Generate:
 
 correlation_cluster_df
 
-Save:
+Save report:
 
 docs/4-EDA-reports/correlation_cluster_report.md
 
+Save summary table:
+
+Final Assignment/telecom/correlation_cluster.csv
+
+Create dataset snapshot representing the complete dataframe state after correlation analysis.
+
+Save snapshot:
+
+Final Assignment/data/intermediate/E6_correlation.parquet
+
 Validation:
 
-show cluster sizes and representatives.
+- show cluster sizes and representatives
+- confirm correlation_cluster.csv created successfully
+- confirm E6_correlation.parquet created successfully
 
 Do not drop columns yet.
 Append new cells only.
