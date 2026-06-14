@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560"><rect x="0" y="0" width="1120" height="560" fill="#ffffff"/><text x="30" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#111827">Churn Rate by Combined Missing-Count Bucket</text>
+<text x="30" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#475569">Rows with more blank fields tend to have a different churn profile, which makes missingness a useful data-quality signal and a possible segment marker.</text>
+<text x="30" y="270.0" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#111827" transform="rotate(-90 30 270.0)">Churn rate</text>
+<line x1="80" y1="430" x2="1020" y2="430" stroke="#94a3b8" stroke-width="1" />
+<line x1="80" y1="110" x2="80" y2="430" stroke="#94a3b8" stroke-width="1" />
+<rect x="101.93333333333334" y="129.57484322498692" width="112.79999999999998" height="300.4251567750131" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="158.33333333333331" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">0</text>
+<text x="158.33333333333331" y="123.57484322498692" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">48.4%</text>
+<rect x="258.6" y="124.82477234698428" width="112.79999999999998" height="305.1752276530157" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="315.0" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">1-2</text>
+<text x="315.0" y="118.82477234698428" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">49.2%</text>
+<rect x="415.26666666666665" y="121.61629297758776" width="112.79999999999998" height="308.38370702241224" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="471.66666666666663" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">3-5</text>
+<text x="471.66666666666663" y="115.61629297758776" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">49.7%</text>
+<rect x="571.9333333333334" y="110.00000000000006" width="112.79999999999998" height="319.99999999999994" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="628.3333333333334" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">6-10</text>
+<text x="628.3333333333334" y="104.00000000000006" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">51.6%</text>
+<rect x="728.5999999999999" y="113.87991046393114" width="112.79999999999998" height="316.12008953606886" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="784.9999999999999" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">11-20</text>
+<text x="784.9999999999999" y="107.87991046393114" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">50.9%</text>
+<rect x="885.2666666666667" y="130.28539128680455" width="112.79999999999998" height="299.71460871319545" fill="#7c3aed" stroke="none" stroke-width="1" rx="4" ry="4" />
+<text x="941.6666666666666" y="446" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#111827">21+</text>
+<text x="941.6666666666666" y="124.28539128680455" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#0f172a">48.3%</text></svg>

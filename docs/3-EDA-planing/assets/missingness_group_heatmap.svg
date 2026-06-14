@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="482" viewBox="0 0 870 482"><rect x="0" y="0" width="870" height="482" fill="#ffffff"/><text x="30" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#111827">Missingness Heatmap by Feature Group</text>
+<text x="30" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#475569">Darker cells indicate larger values. Client household/profile groups dominate total missingness; Record-related groups are low-missing overall.</text>
+<text x="365.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Avg missing %</text>
+<text x="495.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Share of all missing</text>
+<text x="625.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Max field %</text>
+<text x="755.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Field count</text>
+<text x="22" y="143.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Identity and Join Fields</text>
+<rect x="300" y="120" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="430" y="120" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="560" y="120" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="690" y="120" width="128" height="32" fill="#edf4ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">1.0</text>
+<text x="22" y="177.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Core Target and Timing</text>
+<rect x="300" y="154" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="430" y="154" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="560" y="154" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="690" y="154" width="128" height="32" fill="#ebf2fe" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.0</text>
+<text x="22" y="211.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Customer Profile and Household Context</text>
+<rect x="300" y="188" width="128" height="32" fill="#cfddf9" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">14.4</text>
+<rect x="430" y="188" width="128" height="32" fill="#1d4ed8" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">95.2</text>
+<rect x="560" y="188" width="128" height="32" fill="#829feb" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">49.4</text>
+<rect x="690" y="188" width="128" height="32" fill="#becff6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">22.0</text>
+<text x="22" y="245.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Device and Subscription Context</text>
+<rect x="300" y="222" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.1</text>
+<rect x="430" y="222" width="128" height="32" fill="#eef6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.3</text>
+<rect x="560" y="222" width="128" height="32" fill="#edf5ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.8</text>
+<rect x="690" y="222" width="128" height="32" fill="#d7e3fa" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">11.0</text>
+<text x="22" y="279.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Lifetime Usage and Revenue</text>
+<rect x="300" y="256" width="128" height="32" fill="#eef5ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.6</text>
+<rect x="430" y="256" width="128" height="32" fill="#e9f1fe" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.6</text>
+<rect x="560" y="256" width="128" height="32" fill="#e9f1fe" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.8</text>
+<rect x="690" y="256" width="128" height="32" fill="#cedcf9" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">15.0</text>
+<text x="22" y="313.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Recent Billing and Revenue Behavior</text>
+<rect x="300" y="290" width="128" height="32" fill="#eef5ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.5</text>
+<rect x="430" y="290" width="128" height="32" fill="#ecf3fe" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">1.5</text>
+<rect x="560" y="290" width="128" height="32" fill="#edf4ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.9</text>
+<rect x="690" y="290" width="128" height="32" fill="#d7e3fa" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">11.0</text>
+<text x="22" y="347.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Service Quality and Care</text>
+<rect x="300" y="324" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="430" y="324" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="560" y="324" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="690" y="324" width="128" height="32" fill="#dde8fc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">8.0</text>
+<text x="22" y="381.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">Traffic Mix and Usage Pattern</text>
+<rect x="300" y="358" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="430" y="358" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="560" y="358" width="128" height="32" fill="#eff6ff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.0</text>
+<rect x="690" y="358" width="128" height="32" fill="#d7e3fa" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="754.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">11.0</text></svg>

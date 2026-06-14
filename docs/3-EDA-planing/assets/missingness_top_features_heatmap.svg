@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="618" viewBox="0 0 740 618"><rect x="0" y="0" width="740" height="618" fill="#ffffff"/><text x="30" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#111827">Top Missing Fields and Churn Association</text>
+<text x="30" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#475569">This heatmap shows which missing fields are largest, which have the biggest churn lift, and how strongly missingness aligns with churn.</text>
+<text x="365.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Missing %</text>
+<text x="495.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Churn lift pp</text>
+<text x="625.0" y="106" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#111827">Phi vs churn</text>
+<text x="22" y="143.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">numbcars (Client)</text>
+<rect x="300" y="120" width="128" height="32" fill="#ca8a04" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">49.37</text>
+<rect x="430" y="120" width="128" height="32" fill="#f5e9d0" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">1.33</text>
+<rect x="560" y="120" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="142.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.01</text>
+<text x="22" y="177.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">dwllsize (Client)</text>
+<rect x="300" y="154" width="128" height="32" fill="#d4a033" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">38.31</text>
+<rect x="430" y="154" width="128" height="32" fill="#f4e7cc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.39</text>
+<rect x="560" y="154" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="176.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="211.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">HHstatin (Client)</text>
+<rect x="300" y="188" width="128" height="32" fill="#d4a135" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">37.92</text>
+<rect x="430" y="188" width="128" height="32" fill="#f4e7cc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.30</text>
+<rect x="560" y="188" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="210.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="245.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">ownrent (Client)</text>
+<rect x="300" y="222" width="128" height="32" fill="#d8a947" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">33.71</text>
+<rect x="430" y="222" width="128" height="32" fill="#f4e8cd" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.21</text>
+<rect x="560" y="222" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="244.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="279.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">dwlltype (Client)</text>
+<rect x="300" y="256" width="128" height="32" fill="#daad4e" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">31.91</text>
+<rect x="430" y="256" width="128" height="32" fill="#f4e7cc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.35</text>
+<rect x="560" y="256" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="278.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="313.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">lor (Client)</text>
+<rect x="300" y="290" width="128" height="32" fill="#dbb056" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">30.19</text>
+<rect x="430" y="290" width="128" height="32" fill="#f4e7cb" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.57</text>
+<rect x="560" y="290" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="312.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="347.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">income (Client)</text>
+<rect x="300" y="324" width="128" height="32" fill="#e0b96a" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">25.44</text>
+<rect x="430" y="324" width="128" height="32" fill="#f4e7cb" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.51</text>
+<rect x="560" y="324" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="346.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="381.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">adults (Client)</text>
+<rect x="300" y="358" width="128" height="32" fill="#e2be74" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">23.02</text>
+<rect x="430" y="358" width="128" height="32" fill="#f4e6ca" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.80</text>
+<rect x="560" y="358" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="380.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.02</text>
+<text x="22" y="415.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">infobase (Client)</text>
+<rect x="300" y="392" width="128" height="32" fill="#e3c078" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="414.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">22.08</text>
+<rect x="430" y="392" width="128" height="32" fill="#f4e6c9" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="414.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">3.11</text>
+<rect x="560" y="392" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="414.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.03</text>
+<text x="22" y="449.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">prizm_social_one (Client)</text>
+<rect x="300" y="426" width="128" height="32" fill="#f0ddb7" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="448.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">7.39</text>
+<rect x="430" y="426" width="128" height="32" fill="#f4e8cd" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="448.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.17</text>
+<rect x="560" y="426" width="128" height="32" fill="#f6ecd6" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="448.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">0.01</text>
+<text x="22" y="483.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">avg6mou (Client)</text>
+<rect x="300" y="460" width="128" height="32" fill="#f4e6ca" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="482.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.84</text>
+<rect x="430" y="460" width="128" height="32" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="482.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">-9.61</text>
+<rect x="560" y="460" width="128" height="32" fill="#dce6fc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="482.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">-0.03</text>
+<text x="22" y="517.12" font-family="Arial, sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#111827">avg6qty (Client)</text>
+<rect x="300" y="494" width="128" height="32" fill="#f4e6ca" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="364.0" y="516.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">2.84</text>
+<rect x="430" y="494" width="128" height="32" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="494.0" y="516.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">-9.61</text>
+<rect x="560" y="494" width="128" height="32" fill="#dce6fc" stroke="#cbd5e1" stroke-width="1" rx="4" ry="4" />
+<text x="624.0" y="516.78" font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#0f172a">-0.03</text></svg>

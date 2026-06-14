@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Top Numeric Features by Absolute Skewness</text>
+<text x="268" y="104.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">blck_dat_Mean</text>
+<rect x="280" y="77.8" width="1080.0" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="1368.0" y="104.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">224.59</text>
+<text x="268" y="156.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">roam_Mean</text>
+<rect x="280" y="129.8" width="811.7" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="1099.7" y="156.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">168.80</text>
+<text x="268" y="208.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">drop_dat_Mean</text>
+<rect x="280" y="181.8" width="719.6" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="1007.6" y="208.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">149.64</text>
+<text x="268" y="260.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">callfwdv_Mean</text>
+<rect x="280" y="233.8" width="436.3" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="724.3" y="260.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">90.74</text>
+<text x="268" y="312.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">unan_dat_Mean</text>
+<rect x="280" y="285.8" width="393.4" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="681.4" y="312.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">81.81</text>
+<text x="268" y="364.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">change_rev</text>
+<rect x="280" y="337.8" width="387.3" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="675.3" y="364.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">80.53</text>
+<text x="268" y="416.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">mou_opkd_Mean</text>
+<rect x="280" y="389.8" width="324.3" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="612.3" y="416.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">67.43</text>
+<text x="268" y="468.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">uniqsubs</text>
+<rect x="280" y="441.8" width="291.0" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="579.0" y="468.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">60.52</text>
+<text x="268" y="520.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">datovr_Mean</text>
+<rect x="280" y="493.8" width="278.9" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="566.9" y="520.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">58.01</text>
+<text x="268" y="572.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">mou_cdat_Mean</text>
+<rect x="280" y="545.8" width="237.2" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="525.2" y="572.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">49.33</text>
+<text x="268" y="624.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">mou_pead_Mean</text>
+<rect x="280" y="597.8" width="206.8" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="494.8" y="624.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">43.00</text>
+<text x="268" y="676.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">custcare_Mean</text>
+<rect x="280" y="649.8" width="154.0" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="442.0" y="676.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">32.03</text>
+<text x="268" y="728.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">plcd_dat_Mean</text>
+<rect x="280" y="701.8" width="145.6" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="433.6" y="728.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">30.27</text>
+<text x="268" y="780.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">opk_dat_Mean</text>
+<rect x="280" y="753.8" width="144.1" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="432.1" y="780.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">29.97</text>
+<text x="268" y="832.0" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#111827">peak_dat_Mean</text>
+<rect x="280" y="805.8" width="143.3" height="36.4" fill="#ef4444" opacity="0.85" rx="3"/>
+<text x="431.3" y="832.0" font-family="Arial, sans-serif" font-size="11" fill="#374151">29.81</text>
+</svg>

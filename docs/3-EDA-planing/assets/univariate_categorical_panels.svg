@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Categorical Dominance Panels</text>
+<rect x="24.0" y="70.0" width="666.0" height="393.0" fill="#f8fafc" stroke="#cbd5e1" rx="8"/>
+<text x="36.0" y="92.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">crclscod</text>
+<text x="36.0" y="142.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">AA</text>
+<rect x="146.0" y="116.2" width="532.0" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="684.0" y="142.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">36,509</text>
+<text x="36.0" y="199.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">A</text>
+<rect x="146.0" y="172.7" width="188.9" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="340.9" y="199.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">16,996</text>
+<text x="36.0" y="255.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">BA</text>
+<rect x="146.0" y="229.2" width="112.7" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="264.7" y="255.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">12,667</text>
+<text x="36.0" y="312.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">CA</text>
+<rect x="146.0" y="285.7" width="36.6" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="188.6" y="312.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">8,334</text>
+<text x="36.0" y="368.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">EA</text>
+<rect x="146.0" y="342.2" width="2.9" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="154.9" y="368.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">6,419</text>
+<text x="36.0" y="425.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">Other</text>
+<rect x="146.0" y="398.7" width="225.4" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="377.4" y="425.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">19,075</text>
+<rect x="710.0" y="70.0" width="666.0" height="393.0" fill="#f8fafc" stroke="#cbd5e1" rx="8"/>
+<text x="722.0" y="92.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">area</text>
+<text x="722.0" y="142.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">NEW YORK CITY AREA</text>
+<rect x="832.0" y="116.2" width="2.9" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="840.9" y="142.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">11,098</text>
+<text x="722.0" y="199.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">LOS ANGELES AREA</text>
+<rect x="832.0" y="172.7" width="67.5" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="199.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">6,636</text>
+<text x="722.0" y="255.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">DC/MARYLAND/VIRGINIA AREA</text>
+<rect x="832.0" y="229.2" width="66.8" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="255.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">6,567</text>
+<text x="722.0" y="312.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">MIDWEST AREA</text>
+<rect x="832.0" y="285.7" width="64.5" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="312.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">6,346</text>
+<text x="722.0" y="368.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">SOUTHWEST AREA</text>
+<rect x="832.0" y="342.2" width="62.9" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="368.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">6,187</text>
+<text x="722.0" y="425.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">Other</text>
+<rect x="832.0" y="398.7" width="532.0" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="1370.0" y="425.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">63,126</text>
+<rect x="24.0" y="483.0" width="666.0" height="393.0" fill="#f8fafc" stroke="#cbd5e1" rx="8"/>
+<text x="36.0" y="505.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">prizm_social_one</text>
+<text x="36.0" y="562.9" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">S</text>
+<rect x="146.0" y="531.2" width="532.0" height="44.1" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="684.0" y="562.9" font-family="Arial, sans-serif" font-size="11" fill="#374151">32,097</text>
+<text x="36.0" y="630.7" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">U</text>
+<rect x="146.0" y="599.0" width="362.3" height="44.1" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="514.3" y="630.7" font-family="Arial, sans-serif" font-size="11" fill="#374151">23,613</text>
+<text x="36.0" y="698.5" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">C</text>
+<rect x="146.0" y="666.8" width="230.4" height="44.1" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="382.4" y="698.5" font-family="Arial, sans-serif" font-size="11" fill="#374151">17,018</text>
+<text x="36.0" y="766.3" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">T</text>
+<rect x="146.0" y="734.6" width="189.8" height="44.1" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="341.8" y="766.3" font-family="Arial, sans-serif" font-size="11" fill="#374151">14,989</text>
+<text x="36.0" y="834.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">R</text>
+<rect x="146.0" y="802.4" width="97.9" height="44.1" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="152.0" y="834.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">4,895</text>
+<rect x="710.0" y="483.0" width="666.0" height="393.0" fill="#f8fafc" stroke="#cbd5e1" rx="8"/>
+<text x="722.0" y="505.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">dwllsize</text>
+<text x="722.0" y="555.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">A</text>
+<rect x="832.0" y="529.2" width="532.0" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="1370.0" y="555.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">47,205</text>
+<text x="722.0" y="612.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">B</text>
+<rect x="832.0" y="585.7" width="70.8" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="612.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">5,205</text>
+<text x="722.0" y="668.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">C</text>
+<rect x="832.0" y="642.2" width="20.4" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="668.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">1,497</text>
+<text x="722.0" y="725.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">J</text>
+<rect x="832.0" y="698.7" width="19.4" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="725.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">1,430</text>
+<text x="722.0" y="781.6" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">O</text>
+<rect x="832.0" y="755.2" width="15.9" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="781.6" font-family="Arial, sans-serif" font-size="11" fill="#374151">1,172</text>
+<text x="722.0" y="838.1" font-family="Arial, sans-serif" font-size="11" text-anchor="start" fill="#111827">Other</text>
+<rect x="832.0" y="811.7" width="70.5" height="36.7" fill="#10b981" opacity="0.8" rx="3"/>
+<text x="838.0" y="838.1" font-family="Arial, sans-serif" font-size="11" fill="#374151">5,183</text>
+</svg>
