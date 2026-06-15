@@ -1,0 +1,4 @@
+feature_type,count,pct_of_columns,null_count,null_pct,example_columns
+numeric predictors,86,79.63,154290,1.79,"rev_Mean, mou_Mean, totmrc_Mean, da_Mean, ovrmou_Mean"
+categorical predictors,21,19.44,195400,9.3,"new_cell, crclscod, asl_flag, prizm_social_one, area"
+target,1,0.93,0,0.0,churn
