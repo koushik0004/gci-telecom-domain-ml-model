@@ -67,9 +67,9 @@ categorical predictors     21           19.44      195400      9.30  new_cell, c
                   months   int64      numeric predictor            safe                     True
                 uniqsubs   int64      numeric predictor            safe                     True
                 actvsubs   int64      numeric predictor            safe                     True
-                new_cell  object  categorical predictor            safe                     True
-                crclscod  object  categorical predictor            safe                     True
-                asl_flag  object  categorical predictor            safe                     True
+                new_cell     str  categorical predictor            safe                     True
+                crclscod     str  categorical predictor            safe                     True
+                asl_flag     str  categorical predictor            safe                     True
                 totcalls   int64      numeric predictor     conditional                     True
                   totmou float64      numeric predictor     conditional                     True
                   totrev float64      numeric predictor     conditional                     True
@@ -85,34 +85,34 @@ categorical predictors     21           19.44      195400      9.30  new_cell, c
                  avg6mou float64      numeric predictor     conditional                     True
                  avg6qty float64      numeric predictor     conditional                     True
                  avg6rev float64      numeric predictor     conditional                     True
-        prizm_social_one  object  categorical predictor            safe                     True
-                    area  object  categorical predictor            safe                     True
-                dualband  object  categorical predictor            safe                     True
-              refurb_new  object  categorical predictor            safe                     True
+        prizm_social_one     str  categorical predictor            safe                     True
+                    area     str  categorical predictor            safe                     True
+                dualband     str  categorical predictor            safe                     True
+              refurb_new     str  categorical predictor            safe                     True
                hnd_price float64      numeric predictor            safe                     True
                   phones float64      numeric predictor            safe                     True
                   models float64      numeric predictor            safe                     True
-              hnd_webcap  object  categorical predictor            safe                     True
+              hnd_webcap     str  categorical predictor            safe                     True
                    truck float64      numeric predictor            safe                     True
                       rv float64      numeric predictor            safe                     True
-                 ownrent  object  categorical predictor            safe                     True
+                 ownrent     str  categorical predictor            safe                     True
                      lor float64      numeric predictor            safe                     True
-                dwlltype  object  categorical predictor            safe                     True
-                 marital  object  categorical predictor            safe                     True
+                dwlltype     str  categorical predictor            safe                     True
+                 marital     str  categorical predictor            safe                     True
                   adults float64      numeric predictor            safe                     True
-                infobase  object  categorical predictor            safe                     True
+                infobase     str  categorical predictor            safe                     True
                   income float64      numeric predictor            safe                     True
                 numbcars float64      numeric predictor            safe                     True
-                HHstatin  object  categorical predictor            safe                     True
-                dwllsize  object  categorical predictor            safe                     True
+                HHstatin     str  categorical predictor            safe                     True
+                dwllsize     str  categorical predictor            safe                     True
                 forgntvl float64      numeric predictor            safe                     True
-                  ethnic  object  categorical predictor            safe                     True
-                  kid0_2  object  categorical predictor            safe                     True
-                  kid3_5  object  categorical predictor            safe                     True
-                 kid6_10  object  categorical predictor            safe                     True
-                kid11_15  object  categorical predictor            safe                     True
-                kid16_17  object  categorical predictor            safe                     True
-                creditcd  object  categorical predictor            safe                     True
+                  ethnic     str  categorical predictor            safe                     True
+                  kid0_2     str  categorical predictor            safe                     True
+                  kid3_5     str  categorical predictor            safe                     True
+                 kid6_10     str  categorical predictor            safe                     True
+                kid11_15     str  categorical predictor            safe                     True
+                kid16_17     str  categorical predictor            safe                     True
+                creditcd     str  categorical predictor            safe                     True
                  eqpdays float64      numeric predictor            safe                     True
          usage_to_charge float64      numeric predictor      not_listed                     True
        revenue_per_usage float64      numeric predictor      not_listed                     True
